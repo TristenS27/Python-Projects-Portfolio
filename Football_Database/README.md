@@ -1,6 +1,6 @@
 Author: Tristen Smith
 ---
-The football csv file contains information from a database that includes Georgia Tech's entire football history
+The football csv file contains information from a database that includes Georgia Tech's entire football history.
 ---
 This problem opens the football csv file and sorts the data based on ...
 1. Who was the first team Georgia Tech ever played against?
